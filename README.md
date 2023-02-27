@@ -13,4 +13,4 @@ In the file name:
 
 "SO" is single orifice
 "DO12" is symmetric double orifice
-"DO1S" is asymmetric double orifice
+"DO13" is asymmetric double orifice
